@@ -1,0 +1,3 @@
+Line count: 1797
+Total: 1606.748
+Average probability: 0.894
